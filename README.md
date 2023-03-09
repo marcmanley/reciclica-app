@@ -8,4 +8,4 @@ I'm using this to learn the Ionic framework. I am following the video tutorial o
 
 ...
 
-This is now the g code.
+This is now the new production code for this branch.
